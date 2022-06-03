@@ -7,4 +7,8 @@ Bem vindo(a) ao meu perfil, meu nome é Kiara Victoria!!! <img src="https://www.
 - Ela/Dela
 
 <br>
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" />  
+<div align="center">
+  <a href="https://github.com/NegrescoDemon02%22%3E">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NegrescoDemon02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegrescoDemon02&layout=compact&langs_count=7&theme=dracula%22/%3E"> 
+</div>
